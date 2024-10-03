@@ -458,7 +458,7 @@ vega-lite:
 
 jekyll_get_json:
   - data: resume
-    json: assets/pdf/cv_en_shaobowang.pdf # it can also be an url
+    json: assets/pdf/cv_en_wangjize.pdf # it can also be an url
 jsonresume:
   - basics
   - work
