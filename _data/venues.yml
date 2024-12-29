@@ -4,8 +4,8 @@
 "EMNLP":
   color: "#ff4c4c"
 
-"ICLR":
-  color: "#34bf49"
+"AAAI":
+  color: "#f1af31" 
 
 "arXiv":
   color: "#9f9fa3"
