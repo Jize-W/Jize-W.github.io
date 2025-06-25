@@ -18,9 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student at [Department of Automation](https://automation.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervision of Prof. [Cailian Chen](https://scholar.google.com/citations?user=NGQrfUwAAAAJ&hl=zh-CN) and Prof. [Xinyi Le](https://scholar.google.com/citations?user=MGZyMf4AAAAJ&hl=en). I am also a research intern at Shanghai AI Laboratory, mentored by Dr. [Yining Li](https://scholar.google.com/citations?user=y_cp1sUAAAAJ&hl=en) and Dr. [Kai Chen](https://scholar.google.com/citations?user=eGD0b7IAAAAJ). Prior to that, I received the B.Eng. degree from SJTU in 2022.
+I am a first-year PhD student at [School of Automation and Intelligent Sensing](https://automation.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervision of Prof. [Cailian Chen](https://scholar.google.com/citations?user=NGQrfUwAAAAJ&hl=zh-CN) and Prof. [Xinyi Le](https://scholar.google.com/citations?user=MGZyMf4AAAAJ&hl=en). Currently, I am a research intern at Wechat Group, Tencent, mentored by Mr. [Zifei Shan](http://www.zifeishan.org/). Prior to that, I spent a wonderful time at Shanghai AI Laboratory, mentored by Dr. [Yining Li](https://scholar.google.com/citations?user=y_cp1sUAAAAJ&hl=en) and Dr. [Kai Chen](https://scholar.google.com/citations?user=eGD0b7IAAAAJ). I received the B.Eng. degree from SJTU in 2022.
 
-My current research interest mainly lies in LLM-based agents, multi-agent systems, and information extraction. For further discussion or potential collaboration, please <a href='mailto:jizewang2000@gmail.com'> email me </a> at: jizewang2000 [at] gmail [dot] com.
+My current research interest mainly lies in LLM-based agents and multi-agent systems. For further discussion or potential collaboration, please <a href='mailto:jizewang2000@gmail.com'> email me </a> at: jizewang2000 [at] gmail [dot] com.
 
 
 <!-- Previously, I was a master's student at the [Department of Computer Science and Engineering (CSE)](https://www.cs.sjtu.edu.cn/en/) at SJTU, where I was grateful to be mentored by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Prior to SJTU, I received my B.Eng. degree from HIT in 2022.
@@ -50,7 +50,7 @@ Beyond academia, I have a rich background in the arts and sports. I've been play
 <!-- 👋 I am open to collaborate and engage in discussions related to my field. Should you have any inquiries or are interested in collaborating, please do not hesitate to <a href='mailto:gszfwsb@gmail.com'> contact me </a>! -->
 
 <!-- linke to cv -->
-<mark> <a href='/assets/pdf/cv_en_wangjize.pdf'> <b>English CV</b> </a> </mark> | <mark> <a href='/assets/pdf/cv_zh_wangjize.pdf'> <b>中文简历</b></a> </mark>
+<mark> <a href='/assets/pdf/cv_en_wangjize.pdf'> <b>English CV</b> </a> </mark> | <mark> <a href='/assets/pdf/cv_zh_wangjize_public.pdf'> <b>中文简历</b></a> </mark>
 
 
 <!-- Beyond academia, I've been playing the piano for over 10 years and had the honor of performing alongside the renowned pianist <a href="https://en.wikipedia.org/wiki/Lang_Lang">Lang Lang</a>. My favorite composers are Chopin and Liszt. While my musical roots are in classical music, I have a strong affinity for R&B and Neo-Soul genres. In my teenage years, I won several chess championships in Anhui Province, China, under the mentorship of Grandmaster <a href="https://en.wikipedia.org/wiki/Zeng_Chongsheng">Chongsheng Zeng</a> and Master Yongjin Zhou. I also like reading detective and historical novels, and solving magic cubes. -->
