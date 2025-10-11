@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student, Department of Automation, SJTU
+subtitle: PhD Student, School of Automation and Intelligent Sensing, SJTU
 
 
 profile:
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student at [School of Automation and Intelligent Sensing](https://automation.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervision of Prof. [Cailian Chen](https://scholar.google.com/citations?user=NGQrfUwAAAAJ&hl=zh-CN) and Prof. [Xinyi Le](https://scholar.google.com/citations?user=MGZyMf4AAAAJ&hl=en). Currently, I am a research intern at Wechat Group, Tencent, mentored by Mr. [Zifei Shan](http://www.zifeishan.org/). Prior to that, I spent a wonderful time at Shanghai AI Laboratory, mentored by Dr. [Yining Li](https://scholar.google.com/citations?user=y_cp1sUAAAAJ&hl=en) and Dr. [Kai Chen](https://scholar.google.com/citations?user=eGD0b7IAAAAJ). I received the B.Eng. degree from SJTU in 2022.
+I am a second-year PhD student at [School of Automation and Intelligent Sensing](https://automation.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervision of Prof. [Cailian Chen](https://scholar.google.com/citations?user=NGQrfUwAAAAJ&hl=zh-CN) and Prof. [Xinyi Le](https://scholar.google.com/citations?user=MGZyMf4AAAAJ&hl=en). Currently, I am a research intern at Wechat Group, Tencent, mentored by Mr. [Zifei Shan](http://www.zifeishan.org/). Prior to that, I spent a wonderful time at Shanghai AI Laboratory, mentored by Dr. [Yining Li](https://scholar.google.com/citations?user=y_cp1sUAAAAJ&hl=en) and Dr. [Kai Chen](https://scholar.google.com/citations?user=eGD0b7IAAAAJ). I received the B.Eng. degree from SJTU in 2022.
 
 My current research interest mainly lies in LLM-based agents and multi-agent systems. For further discussion or potential collaboration, please <a href='mailto:jizewang2000@gmail.com'> email me </a> at: jizewang2000 [at] gmail [dot] com.
 
