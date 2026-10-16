@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student, School of Automation and Intelligent Sensing, SJTU
+# subtitle: PhD Student, School of Automation and Intelligent Sensing, SJTU
 
 
 profile:
@@ -18,9 +18,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second-year PhD student at [School of Automation and Intelligent Sensing](https://automation.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervision of Prof. [Cailian Chen](https://scholar.google.com/citations?user=NGQrfUwAAAAJ&hl=zh-CN) and Prof. [Xinyi Le](https://scholar.google.com/citations?user=MGZyMf4AAAAJ&hl=en). Currently, I am a research intern at Wechat Group, Tencent, mentored by Mr. [Zifei Shan](http://www.zifeishan.org/). Prior to that, I spent a wonderful time at Shanghai AI Laboratory, mentored by Dr. [Yining Li](https://scholar.google.com/citations?user=y_cp1sUAAAAJ&hl=en) and Dr. [Kai Chen](https://scholar.google.com/citations?user=eGD0b7IAAAAJ). I received the B.Eng. degree from SJTU in 2022.
+I am a third-year PhD student at [School of Automation and Intelligent Sensing](https://automation.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervision of Prof. [Cailian Chen](https://scholar.google.com/citations?user=NGQrfUwAAAAJ&hl=zh-CN) and Prof. [Xinyi Le](https://scholar.google.com/citations?user=MGZyMf4AAAAJ&hl=en). 
+I am also a joint PhD student at [Generative AI Lab](https://www.ntu.edu.sg/computing/research/institutes-centres/grail) at [Nanyang Technological University](https://www.ntu.edu.sg/), under the supervision of Prof. [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ&hl=zh-CN) and Prof. [Yongcheng Jing](https://ycjing.github.io/). 
+I received the B.Eng. degree from SJTU in 2022.
 
-My current research interest mainly lies in LLM-based agents and multi-agent systems. For further discussion or potential collaboration, please <a href='mailto:jizewang2000@gmail.com'> email me </a> at: jizewang2000 [at] gmail [dot] com.
+ <!-- a research intern at Wechat Group, Tencent, mentored by Mr. [Zifei Shan](http://www.zifeishan.org/). Prior to that, I spent a wonderful time at Shanghai AI Laboratory, mentored by Dr. [Yining Li](https://scholar.google.com/citations?user=y_cp1sUAAAAJ&hl=en) and Dr. [Kai Chen](https://scholar.google.com/citations?user=eGD0b7IAAAAJ). I received the B.Eng. degree from SJTU in 2022. -->
+
+I previously conducted research at leading institutions including Tencent and Shanghai AI Laboratory. 
+
+My current research interest lies in world models and LLM-based agents. For further discussion or potential collaboration, please <a href='mailto:jizewang2000@gmail.com'> email me </a> at: jizewang2000 [at] gmail [dot] com.
 
 
 <!-- Previously, I was a master's student at the [Department of Computer Science and Engineering (CSE)](https://www.cs.sjtu.edu.cn/en/) at SJTU, where I was grateful to be mentored by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/). Prior to SJTU, I received my B.Eng. degree from HIT in 2022.
